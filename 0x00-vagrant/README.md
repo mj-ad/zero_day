@@ -1,0 +1,1 @@
+This repo is used to understand how to use ubuntu
